@@ -1,0 +1,6 @@
+Ler o nome e a idade de N pessoas
+Exibir ordenado por nome
+Exibir ordenado por idade
+
+Leia um número de apostas da mega-sena
+Exibir cada aposta de forma ordenada

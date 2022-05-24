@@ -1,0 +1,22 @@
+Fazer um programa que:
+
+
+ * Gere uma função para calcular a potência qualquer
+
+
+OBS: Não pode utilizar **
+
+
+ 
+
+
+Fazer um programa que:
+
+
+ * Crie uma função para exibir um palpite da megasena. Esse
+palpite deverá se exibido de forma ordenada e com zero à esquerda caso o número
+seja uma unidade.
+
+
+ * Leia do usuário quantos palpites ele deseja que sejam
+exibidos e apresente todos os palpites solicitados.
